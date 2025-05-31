@@ -60,6 +60,20 @@
 
 ---
 
+### 📜 Certifications
+
+- ☁️ **Cloud Computing**  
+  Completed foundational training in cloud concepts and services through Infosys Springboard.
+
+- 🤖 **Generative AI Productivity Skills**  
+  Gained practical insights into leveraging generative AI tools to boost productivity, offered by Microsoft and LinkedIn.
+
+- 📊 **Data Analysis**  
+  Acquired essential data analysis skills using industry-relevant tools and methodologies, certified by Microsoft and LinkedIn.
+
+
+---
+
 ### 🔥 GitHub Stats
 
 <p align="center">
