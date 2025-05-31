@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="100%" alt="Animated banner" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Sidhant Gairola</h1>
 <h3 align="center">AI & Machine Learning Postgraduate | Java & Frontend Developer | Full Stack Enthusiast</h3>
 
@@ -16,11 +12,22 @@
 
 ### 🌟 About Me
 
-- 🎓 MCA in **Artificial Intelligence & Machine Learning** from **UPES**
-- 💻 Passionate about full-stack development, React, AI, and Java
-- 🚀 Solved 200+ LeetCode problems & completed DSA on HackerRank
-- 📚 Certified in Generative AI, Cloud Computing, and Data Analysis
-- 📬 Email: **ssid7074@gmail.com** | 🌐 Portfolio: [sidhant-gairola-portfolio.vercel.app](https://sidhant-gairola-portfolio.vercel.app)
+- 🎓 Master's in **Cyber Security** from **UPES Dehradun**
+- 💡 Skilled in **Java**, **Frontend Development**, and **Web Security**
+- 💬 Ask me about anything related to **React, Node.js, PHP, Java, or MySQL**
+- 🌍 Check out my hosted project: [MediPath](https://medipath-ai.vercel.app)
+- 📫 Reach me at: **sidhantgairola@example.com**
+- ⚡ Fun fact: I love turning ideas into digital solutions!
+
+---
+
+### 💼 Tech Stack
+
+- **Languages**: Java, C, C++, Python, PHP, JavaScript  
+- **Frontend**: HTML, CSS, Bootstrap, JavaScript, React.js  
+- **Backend**: Node.js, Express.js, PHP  
+- **Database**: MySQL, MongoDB  
+- **Tools**: Git, GitHub, VS Code, Postman
 
 ---
 
@@ -76,7 +83,6 @@
 ### 📋 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-<!-- This section will be auto-updated by GitHub Actions -->
 <!--END_SECTION:activity-->
 
 ---
