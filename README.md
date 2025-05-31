@@ -1,5 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="100%" alt="Animated banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Sidhant Gairola</h1>
-<h3 align="center">Artificial Intelligence & Machine Learning Postgraduate | Java & Frontend Enthusiast | Full Stack Developer</h3>
+<h3 align="center">AI & Machine Learning Postgraduate | Java & Frontend Developer | Full Stack Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sidhant-gairola&label=Profile%20views&color=0e75b6&style=flat" alt="sidhant-gairola" />
@@ -12,26 +16,39 @@
 
 ### 🌟 About Me
 
-- 🎓 Master's in **Cyber Security** from **UPES Dehradun**
-- 💡 Skilled in **Java**, **Frontend Development**, and **Web Security**
-- 💬 Ask me about anything related to **React, Node.js, PHP, Java, or MySQL**
-- 🌍 Check out my hosted project: [MediPath](https://medipath-chi.vercel.app/)
-- 📫 Reach me at: **sidhantgairola@example.com**
-- ⚡ Fun fact: I love turning ideas into digital solutions!
+- 🎓 MCA in **Artificial Intelligence & Machine Learning** from **UPES**
+- 💻 Passionate about full-stack development, React, AI, and Java
+- 🚀 Solved 200+ LeetCode problems & completed DSA on HackerRank
+- 📚 Certified in Generative AI, Cloud Computing, and Data Analysis
+- 📬 Email: **ssid7074@gmail.com** | 🌐 Portfolio: [sidhant-gairola-portfolio.vercel.app](https://sidhant-gairola-portfolio.vercel.app)
 
 ---
 
-### 💼 Tech Stack
+### 🔗 Connect With Me
 
-- **Languages**: Java, C, C++, Python, PHP, JavaScript  
-- **Frontend**: HTML, CSS, Bootstrap, JavaScript, React.js  
-- **Backend**: Node.js, Express.js, PHP  
-- **Database**: MySQL, MongoDB  
-- **Tools**: Git, GitHub, VS Code, Postman
+<p align="center">
+  <a href="mailto:ssid7074@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sidhant-gairola/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/sidhant-gairola"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://sidhant-gairola-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=vercel"/></a>
+</p>
 
 ---
 
-### 🔥 My GitHub Stats
+### 🧩 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/sidhant-gairola/MediPath">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sidhant-gairola&repo=MediPath&theme=radical" />
+  </a>
+  <a href="https://github.com/sidhant-gairola/Nritya-Dance-Website">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sidhant-gairola&repo=Nritya-Dance-Website&theme=radical" />
+  </a>
+</p>
+
+---
+
+### 🔥 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sidhant-gairola&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -40,26 +57,35 @@
 
 ---
 
-### 🚀 Projects Showcase
+### 🏆 GitHub Trophies
 
-- 🩺 **MediPath** – AI-based health treatment planner using React.js, Node.js, Gemini API  
-  🔗 [Live](https://medipath-chi.vercel.app) • [Code](https://github.com/sidhant-gairola/MediPath)
-
-- 💃 **Nritya Dance Website** – A dance academy website using HTML, CSS, JS  
-  🔗 [Code](https://github.com/sidhant-gairola/Nritya-Dance-Website)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sidhant-gairola&theme=radical&no-frame=true&margin-w=10" />
+</p>
 
 ---
 
-### 🌐 Connect With Me
+### 📈 Contribution Graph
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/sidhant-gairola/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/sidhant-gairola" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://medipath-chi.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=vercel" alt="Portfolio" />
-  </a>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sidhant-gairola&theme=react-dark&area=true" />
+</p>
+
+---
+
+### 📋 Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!-- This section will be auto-updated by GitHub Actions -->
+<!--END_SECTION:activity-->
+
+---
+
+### 🌍 GitHub Visitors Map
+
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=sidhant-gairola%2F&label=VISITORS&countColor=%23f47373" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 </p>
