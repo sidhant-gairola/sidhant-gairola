@@ -99,18 +99,13 @@
 
 ---
 
-### 📋 Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
 ### 🌍 GitHub Visitors Map
 
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=sidhant-gairola%2F&label=VISITORS&countColor=%23f47373" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sidhant-gairola.sidhant-gairola" />
 </p>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/sidhant-gairola/sidhant-gairola/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 </p>
+
