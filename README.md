@@ -16,7 +16,6 @@
 - 💡 Skilled in **Java**, **Web Development**, and **AIML**
 - 💬 Ask me about anything related to **MERN stack, Java, or MySQL**
 - 🌍 Check out my portfolio: [Portfolio](https://sidhant-gairola-portfolio.vercel.app/)
-- 📫 Reach me at: **sidhantgairola@example.com**
 - ⚡ Fun fact: I love turning ideas into digital solutions!
 
 ---
@@ -24,10 +23,10 @@
 ### 💼 Tech Stack
 
 - **Languages**: Java, C, C++, Python, PHP, JavaScript  
-- **Frontend**: HTML, CSS, Bootstrap, JavaScript, React.js  
+- **Frontend**: HTML, CSS, JavaScript, React.js, Tailwind CSS
 - **Backend**: Node.js, Express.js, PHP  
 - **Database**: MySQL, MongoDB  
-- **Tools**: Git, GitHub, VS Code, Postman
+- **Tools**: Git, GitHub, VS Code, Postman, Google Colab
 
 ---
 
