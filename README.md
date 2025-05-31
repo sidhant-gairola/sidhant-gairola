@@ -96,16 +96,3 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sidhant-gairola&theme=react-dark&area=true" />
 </p>
-
----
-
-### 🌍 GitHub Visitors Map
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sidhant-gairola.sidhant-gairola" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sidhant-gairola/sidhant-gairola/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
-</p>
-
