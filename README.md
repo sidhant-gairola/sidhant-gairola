@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sidhant Gairola</h1>
-<h3 align="center">Cyber Security Postgraduate | Java & Frontend Enthusiast | Full Stack Developer</h3>
+<h3 align="center">Artificial Intelligence & Machine Learning Postgraduate | Java & Frontend Enthusiast | Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sidhant-gairola&label=Profile%20views&color=0e75b6&style=flat" alt="sidhant-gairola" />
