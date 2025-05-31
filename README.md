@@ -13,7 +13,7 @@
 ### 🌟 About Me
 
 - 🎓 Master's in **Artificial Intelligence and Machine Learning** from **UPES Dehradun**
-- 💡 Skilled in **Java**, **Frontend Development**, and **Web Security**
+- 💡 Skilled in **Java**, **Web Development**, and **AIML**
 - 💬 Ask me about anything related to **React, Node.js, PHP, Java, or MySQL**
 - 🌍 Check out my portfolio: [Portfolio](https://sidhant-gairola-portfolio.vercel.app/)
 - 📫 Reach me at: **sidhantgairola@example.com**
