@@ -14,7 +14,7 @@
 
 - 🎓 Master's in **Artificial Intelligence and Machine Learning** from **UPES Dehradun**
 - 💡 Skilled in **Java**, **Web Development**, and **AIML**
-- 💬 Ask me about anything related to **React, Node.js, PHP, Java, or MySQL**
+- 💬 Ask me about anything related to **MERN stack, Java, or MySQL**
 - 🌍 Check out my portfolio: [Portfolio](https://sidhant-gairola-portfolio.vercel.app/)
 - 📫 Reach me at: **sidhantgairola@example.com**
 - ⚡ Fun fact: I love turning ideas into digital solutions!
