@@ -13,9 +13,8 @@
 ### 🌟 About Me
 
 - 🎓 Master's in **Artificial Intelligence and Machine Learning** from **UPES Dehradun**
-- 💡 Skilled in **Java**, **Web Development**, and **AIML**
-- 💬 Ask me about anything related to **MERN stack, Java, or MySQL**
-- 🌍 Check out my portfolio: [Portfolio](https://sidhant-gairola-portfolio.vercel.app/)
+- 💡  Skilled in **Full Stack Web Development (including both frontend and backend), Java, and Artificial Intelligence & Machine Learning**.
+- 💬 Feel free to ask me anything related to **MERN stack, Java, or MySQL**
 - ⚡ Fun fact: I love turning ideas into digital solutions!
 
 ---
@@ -44,20 +43,20 @@
 ### 🚀 Projects Showcase
 
 - 🩺 **Personalized Treatment Planning System**  
-  A React + Node.js AI platform for generating health recommendations via REST API.  
-  🔗 [Live](https://medipath-ai.vercel.app) • [Portfolio Page](https://sidhant-gairola-portfolio.vercel.app)
+  Developed a web application integrating user inputs and medical data through a RESTful API for tailored recommendations.  
+  🔗 [Live](https://medipath-ai.vercel.app) 
 
 - 💡 **Dream Feature Idea Submission Portal**  
-  A full-stack idea board with like system, dark/light mode, and real-time features.  
+  Developed a full-stack idea submission platform with like system, dark/light mode, and real-time feedback features under strict time constraints.  
   🔗 [Live](https://dream-feature-portal.vercel.app)
 
 - 😃 **Multimodal Emotion Recognition System**  
-  Real-time emotion detection using text and image input fusion.  
+  Achieved real-time emotion detection with multimodal (text and image) fusion for high accuracy.  
   🛠 Python, BERT, VGG16, PyTorch, TensorFlow
 
 - 💃 **Nritya Dance Website**  
   A dance academy website built using core web tech.  
-  🔗 [Code](https://github.com/sidhant-gairola/Nritya-Dance-Website)
+  🔗 [Live](https://nritya-dance-website.onrender.com/)
 
 ---
 
