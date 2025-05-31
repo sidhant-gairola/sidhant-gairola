@@ -12,10 +12,10 @@
 
 ### 🌟 About Me
 
-- 🎓 Master's in **Cyber Security** from **UPES Dehradun**
+- 🎓 Master's in **Artificial Intelligence and Machine Learning** from **UPES Dehradun**
 - 💡 Skilled in **Java**, **Frontend Development**, and **Web Security**
 - 💬 Ask me about anything related to **React, Node.js, PHP, Java, or MySQL**
-- 🌍 Check out my hosted project: [MediPath](https://medipath-ai.vercel.app)
+- 🌍 Check out my portfolio: [Portfolio](https://sidhant-gairola-portfolio.vercel.app/)
 - 📫 Reach me at: **sidhantgairola@example.com**
 - ⚡ Fun fact: I love turning ideas into digital solutions!
 
@@ -42,16 +42,23 @@
 
 ---
 
-### 🧩 Featured Projects
+### 🚀 Projects Showcase
 
-<p align="center">
-  <a href="https://github.com/sidhant-gairola/MediPath">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sidhant-gairola&repo=MediPath&theme=radical" />
-  </a>
-  <a href="https://github.com/sidhant-gairola/Nritya-Dance-Website">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sidhant-gairola&repo=Nritya-Dance-Website&theme=radical" />
-  </a>
-</p>
+- 🩺 **Personalized Treatment Planning System**  
+  A React + Node.js AI platform for generating health recommendations via REST API.  
+  🔗 [Live](https://medipath-ai.vercel.app) • [Portfolio Page](https://sidhant-gairola-portfolio.vercel.app)
+
+- 💡 **Dream Feature Idea Submission Portal**  
+  A full-stack idea board with like system, dark/light mode, and real-time features.  
+  🔗 [Live](https://dream-feature-portal.vercel.app)
+
+- 😃 **Multimodal Emotion Recognition System**  
+  Real-time emotion detection using text and image input fusion.  
+  🛠 Python, BERT, VGG16, PyTorch, TensorFlow
+
+- 💃 **Nritya Dance Website**  
+  A dance academy website built using core web tech.  
+  🔗 [Code](https://github.com/sidhant-gairola/Nritya-Dance-Website)
 
 ---
 
