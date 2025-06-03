@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Animated Coder" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Sidhant Gairola</h1>
 <h3 align="center">AI & Machine Learning Postgraduate | Java & Frontend Developer | Full Stack Enthusiast</h3>
 
@@ -55,7 +59,7 @@
   🛠 Python, BERT, VGG16, PyTorch, TensorFlow
 
 - 💃 **Nritya Dance Website**  
-  A dance academy website built using core web tech.  
+  A dance academy website built using MongoDB, NodeJS, Pug template, HTML & CSS.  
   🔗 [Live](https://nritya-dance-website.onrender.com/)
 
 ---
