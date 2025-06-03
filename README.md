@@ -13,7 +13,10 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="decorative line" />
+</p>
+
 
 ### 🌟 About Me
 
@@ -22,7 +25,10 @@
 - 💬 Feel free to ask me anything related to **MERN stack, Java, or MySQL**
 - ⚡ Fun fact: I love turning ideas into digital solutions!
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="decorative line" />
+</p>
+
 
 ### 💼 Tech Stack
 
@@ -32,7 +38,10 @@
 - **Database**: MySQL, MongoDB  
 - **Tools**: Git, GitHub, VS Code, Postman, Google Colab
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="decorative line" />
+</p>
+
 
 ### 🔗 Connect With Me
 
@@ -43,7 +52,10 @@
   <a href="https://sidhant-gairola-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=vercel"/></a>
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="decorative line" />
+</p>
+
 
 ### 🚀 Projects Showcase
 
@@ -63,7 +75,10 @@
   A dance academy website built using MongoDB, NodeJS, Pug template, HTML & CSS.  
   🔗 [Live](https://nritya-dance-website.onrender.com/)
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="decorative line" />
+</p>
+
 
 ### 📜 Certifications
 
@@ -77,7 +92,10 @@
   Acquired essential data analysis skills using industry-relevant tools and methodologies, certified by Microsoft and LinkedIn.
 
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="decorative line" />
+</p>
+
 
 ### 🔥 GitHub Stats
 
@@ -86,7 +104,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidhant-gairola&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="decorative line" />
+</p>
+
 
 ### 🏆 GitHub Trophies
 
