@@ -1,8 +1,9 @@
+<h1 align="center">Hi 👋, I'm Sidhant Gairola</h1>
+
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Animated Coder" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Sidhant Gairola</h1>
 <h3 align="center">AI & Machine Learning Postgraduate | Java & Frontend Developer | Full Stack Enthusiast</h3>
 
 <p align="center">
