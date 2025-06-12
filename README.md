@@ -82,6 +82,12 @@
 
 ### 📜 Certifications
 
+- 🗄️ **DBMS Course – Master the Fundamentals and Advanced Concepts**  
+  Successfully completed an in-depth 30+ hour DBMS certification covering 16 modules, real-world SQL challenges, and core to advanced database concepts essential for backend and data-driven development.  
+
+- ⚙️ **Spring Boot Course**  
+  Completed a course covering essential Spring Boot concepts, including building and deploying scalable applications. Gained hands-on experience with microservices architecture, RESTful APIs, and backend development best practices.  
+
 - ☁️ **Cloud Computing**  
   Completed foundational training in cloud concepts and services through Infosys Springboard.
 
