@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Animated Coder" />
 </p>
 
-<h3 align="center">AI & Machine Learning Postgraduate | Java & Frontend Developer | Full Stack Enthusiast</h3>
+<h3 align="center">AI & Machine Learning Postgraduate | Java | MERN | Spring Boot | Full Stack Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sidhant-gairola&label=Profile%20views&color=0e75b6&style=flat" alt="sidhant-gairola" />
