@@ -20,9 +20,9 @@
 
 ### 🌟 About Me
 
-- 🎓 Master's in **Artificial Intelligence and Machine Learning** from **UPES Dehradun**
-- 💡  Skilled in **Full Stack Web Development (including both frontend and backend), Java, and Artificial Intelligence & Machine Learning**.
-- 💬 Feel free to ask me anything related to **MERN stack, Java, or MySQL**
+- 🎓 Master's in **Artificial Intelligence and Machine Learning** from **UPES Dehradun**.
+- 💡  Skilled in **Full Stack Web Development (including both frontend and backend), Java,Spring Boot and Artificial Intelligence & Machine Learning**.
+- 💬 Feel free to ask me anything related to **MERN stack, Java, or MySQL**.
 - ⚡ Fun fact: I love turning ideas into digital solutions!
 
 <p align="center">
@@ -32,11 +32,11 @@
 
 ### 💼 Tech Stack
 
-- **Languages**: Java, C, C++, Python, PHP, JavaScript  
-- **Frontend**: HTML, CSS, JavaScript, React.js, Tailwind CSS
-- **Backend**: Node.js, Express.js, PHP  
-- **Database**: MySQL, MongoDB  
-- **Tools**: Git, GitHub, VS Code, Postman, Google Colab
+- **Languages**: Java, C, C++, Python, PHP, JavaScript.
+- **Frontend**: HTML, CSS, JavaScript, React.js, Tailwind CSS.
+- **Backend**: Spring Boot, Node.js, Express.js, PHP.
+- **Database**: MySQL, MongoDB.
+- **Tools**: Git, GitHub, VS Code, Postman, Google Colab.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="decorative line" />
