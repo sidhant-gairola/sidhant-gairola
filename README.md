@@ -21,7 +21,7 @@
 ### 🌟 About Me
 
 - 🎓 Master's in **Artificial Intelligence and Machine Learning** from **UPES Dehradun**.
-- 💡  Skilled in **Full Stack Web Development (including both frontend and backend), Java,Spring Boot and Artificial Intelligence & Machine Learning**.
+- 💡  Skilled in **Full Stack Web Development (including both frontend and backend), Java, Spring Boot and Artificial Intelligence & Machine Learning**.
 - 💬 Feel free to ask me anything related to **MERN stack, Java, or MySQL**.
 - ⚡ Fun fact: I love turning ideas into digital solutions!
 
